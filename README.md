@@ -1,3 +1,5 @@
 # Robo Advisor
 
-![Robo Advisor test with Lambda](RoboAdvisor/RoboAdvisorRecording.gif)
+<img src="/RoboAdvisor/RoboAdvisorRecording.gif" height="500"/>
+
+
